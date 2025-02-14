@@ -246,3 +246,4 @@
     }
 
     return CssDirectives;
+})(window, document)
